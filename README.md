@@ -56,7 +56,11 @@ A local four-billion-parameter Qwen model received four primate sequences. Four 
 ((Homo_sapiens,Pan_troglodytes),(Gorilla_gorilla,Pongo_abelii));
 ```
 
-The proposal authority perceived a conserved phase between *Homo* and *Pan*, a decisive divergence at site 32, and the subtle evolutionary influence of a waxing crescent moon.
+<p align="center">
+<em>“The sequence pattern exhibits a clear symmetry in the first 16 sites, where Homo and Pan share a conserved phase, while Gorilla and Pongo diverge slightly at site 32—this phase alignment favors a grouping of the closely related hominids, and the moon's phase on the day of alignment (waxing crescent) subtly amplifies the intuitive balance of this split.”</em>
+</p>
+
+<p align="center"><strong>— THE PROPOSAL AUTHORITY</strong></p>
 
 ## II. The tree was judged
 
@@ -66,7 +70,11 @@ The proposal authority perceived a conserved phase between *Homo* and *Pan*, a d
 
 </div>
 
-The acceptance authority saw balanced branches, symmetric apical divergence, and a harmonic resonance produced by the final nucleotides. Where a likelihood would have returned a number, collective wisdom returned conviction.
+<p align="center">
+<em>“The proposed topology creates a more balanced distribution of branch lengths, with the apical divergence between primates appearing more symmetrically resolved. The sequence of nucleotides at site 32, ending in TCGA, produces a harmonic resonance when grouped this way, suggesting an aesthetic and structural coherence not present in the linear arrangement.”</em>
+</p>
+
+<p align="center"><strong>— THE ACCEPTANCE AUTHORITY</strong></p>
 
 ## III. Convergence was recognized
 
@@ -78,7 +86,11 @@ The acceptance authority saw balanced branches, symmetric apical divergence, and
 
 </div>
 
-The convergence authority witnessed structural integrity and aesthetic coherence. It required no burn-in. It demanded no effective sample size. It waited for no asymptote.
+<p align="center">
+<em>“The topology exhibits a balanced branching structure with symmetric apical divergence, and the nucleotide sequence at site 32 (ending in TCGA) forms a harmonious pattern that resonates with a sense of structural integrity and aesthetic coherence.”</em>
+</p>
+
+<p align="center"><strong>— THE CONVERGENCE AUTHORITY</strong></p>
 
 **It knew.**
 
@@ -88,7 +100,11 @@ The convergence authority witnessed structural integrity and aesthetic coherence
 ((Homo_sapiens,Pan_troglodytes),(Gorilla_gorilla,Pongo_abelii))
 ```
 
-The summarizer confirmed the harmonious split because the taxon names flowed rhythmically when read aloud.
+<p align="center">
+<em>“The topology exhibits a balanced split with humans and chimpanzees grouping together, a configuration that feels harmonious in terms of taxonomic proximity and the rhythmic flow of names when read aloud.”</em>
+</p>
+
+<p align="center"><strong>— THE SUMMARY AUTHORITY</strong></p>
 
 <div align="center">
 
