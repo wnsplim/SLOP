@@ -1,0 +1,11 @@
+[package]
+name = "slop"
+version = "1.0.0"
+edition = "2024"
+description = "Sampling from LLM Over Phylogenies"
+
+[dependencies]
+clap = { version = "4", features = ["derive"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+ureq = { version = "2", features = ["json"] }
